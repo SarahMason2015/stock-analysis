@@ -4,7 +4,7 @@
 <h3>Purpose</h3>
 <p>As a financial industry expert Steve wants to give the best possible advice to allow his clients to make the most of their money. Since his parents are his first clients, this is more important than ever. He must help guide them into making the best possible decision. Steve has been kind enough to gather information from several green energy stock from 2017 and 2018 in a spread sheet. I have made a simple, and interactive spreadsheet to help put into visualization information for Steve to share with his parents it hopes that the results will sway them to diversify their stocks. </p>
 <h3>Results</h3>
-<p>In 2017 stocks for green energy were outstanding. All but one we’re up, four of the stocks, including “DQ” were up triple digits. The stocks with positive return over the year are labeled in green, and the single one that lost is in red. This seems like good news; a big return is exactly what you want to see but can “DQ” and the other companies keep pace. </p>
+<p>In 2017 stocks for green energy were outstanding. All but one we’re up, four of the stocks, including “DQ” were up triple digits. The stocks with positive return over the year are labeled in green, and the single one that lost is in red. This seems like good news; a big return is exactly what you want to see but can “DQ” and the other companies keep pace? </p>
 <p>As you can see, the pace was not kept. As a matter of fact, in 2018 the stocks lost over 60% of the growth the made in 2017. Along side “DQ” other stocks suffered, so they weren’t the only one who lost. </p>
 <p>Although there were many stocks that declined in value, there is still hope. Of the four stocks that increased by triple digits in 2017 one continued to grow. </p>
 <h3>Summary</h3>
